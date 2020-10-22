@@ -1,0 +1,20 @@
+
+#board{
+    width: 250px;
+    height: 250px;
+    
+}
+
+.square:nth-child(even){
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    float: left;
+}
+
+.square:nth-child(odd){
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    float: left;
+}
