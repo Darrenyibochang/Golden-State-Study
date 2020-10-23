@@ -1,0 +1,14 @@
+.card{
+    width: 200px;
+    border-width: 210px;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
+img{
+    width: 200px;
+    border-color: (236,183,191);
+    border-radius: 50%;
+}
