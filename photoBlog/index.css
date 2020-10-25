@@ -1,0 +1,13 @@
+img{
+    width:30%;
+    margin:1.5%;
+}
+
+nav{
+    text-transform: uppercase;
+    border-bottom:  2px solid;
+    width:30%;
+    margin-left:1.5%;
+    padding:20px 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
